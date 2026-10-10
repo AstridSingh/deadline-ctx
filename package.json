@@ -1,6 +1,6 @@
 {
   "name": "deadline-ctx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pass deadlines through nested calls, no framework needed.",
   "type": "module",
   "main": "src/index.js",
